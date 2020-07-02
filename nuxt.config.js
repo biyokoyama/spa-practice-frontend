@@ -53,7 +53,7 @@ export default {
   */
   axios: {
     credentials: true,
-    baseURL: process.env.SPA_PRACTICE_APP_BASE_URL
+    baseURL: process.env.SPA_PRACTICE_BACKEND_BASE_URL
   },
   /*
   ** Build configuration
